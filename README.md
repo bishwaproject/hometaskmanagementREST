@@ -14,3 +14,10 @@ POST : ‘/api/tasks’ -> create a new task
 PUT : ‘/api/tasks/{id}’ -> update an existing task by ID
 PATCH : ‘/api/tasks/{id}’ -> mark a task as complete by ID
 DELETE : ‘/api/tasks/{id}’ -> delete a task by ID
+
+### dependencies used:
+* Spring boot data JPA
+* Spring boot web
+* mysql connector 
+* Lombok
+
