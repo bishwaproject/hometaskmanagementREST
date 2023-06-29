@@ -20,4 +20,7 @@ DELETE : ‘/api/tasks/{id}’ -> delete a task by ID
 * Spring boot web
 * mysql connector 
 * Lombok
-
+##### Folder Structure
+- Controller 
+- Entity
+- Repository
