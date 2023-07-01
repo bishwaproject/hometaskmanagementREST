@@ -1,5 +1,11 @@
 # hometaskmanagementREST
 SpringBoot REST API to manage home task. SpringBoot is a popular and suitable backend option for developing selling API for serveral reasons:
+1. Rapid Deployment
+2. Spring Ecosystem
+3. Convention over configuration
+4. Dependency Management
+5. Integration Capabilities
+6. Microservices Support
 
 ## Functionalities:
 * Can add tasks
